@@ -1,7 +1,8 @@
 # wave-your-hand
 
+#Note: Not connected to sepolia network
+
 Visit https://waveportal-starter-project.nitheeshraajar.repl.co
-Works on RinkebyETH
 
 
 Final Webpage
